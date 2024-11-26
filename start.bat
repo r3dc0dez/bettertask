@@ -1,0 +1,2 @@
+python bettertask.py
+pause

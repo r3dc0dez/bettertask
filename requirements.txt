@@ -1,0 +1,6 @@
+pyautogui==0.9.54
+keyboard==0.13.5
+pillow==10.0.0
+customtkinter==5.2.0
+pynput==1.7.6
+emoji==2.8.0
